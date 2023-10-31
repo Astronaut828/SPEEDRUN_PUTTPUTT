@@ -1,0 +1,21 @@
+# folders
+.next
+node_modules/
+# files
+**/*.less
+**/*.css
+**/*.scss
+**/*.json
+**/*.png
+**/*.svg
+**/generated/**/*
+
+
+# folders
+artifacts
+cache
+contracts
+node_modules/
+typechain-types
+# files
+**/*.json
