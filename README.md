@@ -20,20 +20,20 @@ cd SpeedRun_PuttPutt
 yarn install
 ```
 
-> in the same terminal, start your local network (a blockchain emulator in your computer):
+In the same terminal, start your local network (a blockchain emulator in your computer):
 
 ```sh
 yarn chain
 ```
 
-> in a second terminal window, 🛰 deploy your contract (locally):
+In a second terminal window, 🛰 deploy your contract (locally):
 
 ```sh
 cd SpeedRun_PuttPutt
 yarn deploy
 ```
 
-> in a third terminal window, start your 📱 frontend:
+In a third terminal window, start your 📱 frontend:
 
 ```sh
 cd SpeedRun_PuttPutt
