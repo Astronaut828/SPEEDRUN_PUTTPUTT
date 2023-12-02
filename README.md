@@ -1,7 +1,5 @@
-<p>
-  <img src="/public/Logo/PUTTPUTT-LOGO.png" width="100%" />
-</p>
-  
+<img src="/public/Logo/PUTTPUTT-LOGO.png" width="100%" />
+
 🏌️ Welcome to SpeedRun PuttPutt powered by 🏗 Scaffold-ETH 2! Dive into a game of PuttPutt where you will familiarize yourself with the foundational aspects of the EVM, Smart Contracts and Solidity. As you make your way through each hole, you'll not only be refining your technical skills but also discovering valuable resources and links pivotal to your development journey. The game will challenge you to unlock smart contract functionalities, understand gas, wallets and even explore some of the most iconic contracts on the Ethereum blockchain. Put on your golfing hats, it's time to tee off on a decentralized adventure! ⛳️
 
 💬 Meet other builders and become part of the community in the [🏗 scaffold-eth developers chat](https://t.me/joinchat/F7nCRK3kI93PoCOk)
